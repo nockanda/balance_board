@@ -1,5 +1,5 @@
 # balance_board
-Make a balance board using Arduino and two electronic scales!
+Make a balance board using Arduino and two electronic scales! This code requires hx711 version 0.7.4!
 
 ![500-6_bb](https://user-images.githubusercontent.com/106683637/175527414-06fbead1-482f-43a1-b808-c3b3bf1fd5cb.jpg)
 
